@@ -1,4 +1,5 @@
 # Deteccion_emociones_deep_learning
+Importante. No se pueden subir los datasets por espacio.
 
 En este estudio intentamos que una red neuronal sepa diferenciar diferentes emociones y detectar rasgos faciales. 
 
